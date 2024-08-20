@@ -10,9 +10,9 @@ The data was downloaded from Kaggle.com.
 ## Research Questions
 The analysis focuses on coffee bean sales in the USA, UK, and Ireland with the following research questions as a guide: 
 1. What are the sales trends from 2019 to 2022?
-2. What is country sales distribution? 
+2. How are sales distributed accross countries? 
 3. Who are the top 5 customers?
-4. Which coffee bean type has the highest sales?
+4. Which coffee bean type generates the highest sales?
 
 
 ## Excel and PowerBI Dashboards
