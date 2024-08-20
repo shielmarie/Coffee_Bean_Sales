@@ -18,7 +18,9 @@ The analysis focuses on coffee bean sales in the USA, UK, and Ireland with the f
 ## Excel and PowerBI Dashboards
 The analysis results have been integrated into an interactive dashboard using Excel and PowerBI, providing an intuitive interface for exploring key findings and recommendations. The dashboard showcases visualizations, trend analyses, and comparative metrics across the three countries.
 
-View/download the interactive dashboard here: 
+View/download the interactive dashboard here:
+
 Excel - (https://github.com/shielmarie/Coffee_Bean_Sales/blob/main/Data/Processed%20Data/interactive_dashboard.xlsx)
+
 PowerBI - (link)
 
