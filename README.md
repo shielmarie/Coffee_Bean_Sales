@@ -20,7 +20,7 @@ The analysis results have been integrated into an interactive dashboard using Ex
 
 View/download the interactive dashboard here:
 
-Excel - (https://github.com/shielmarie/Coffee_Bean_Sales/blob/main/Data/Processed%20Data/interactive_dashboard.xlsx](https://github.com/shielmarie/Coffee_Bean_Sales/blob/main/Data/Processed%20Data/excel_dashboard.xlsx)
+Excel - (https://github.com/shielmarie/Coffee_Bean_Sales/blob/main/Data/Processed%20Data/excel_dashboard.xlsx)
 
 Power BI, shared within organization, Mapua University - (https://app.powerbi.com/groups/958b2bba-1042-4984-bc9e-9383f6a467c4/reports/5ebc6101-5729-4c47-8dba-ce94a6a6ae02?ctid=c7e8b5ac-96c6-4123-a65a-793543aced4d&pbi_source=linkShare)
 
